@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות בגדים לגברים שמבינה מה זה סטייל אמיתי. חולצות גברים ב-149₪ בלבד, עם אופי חזק ועיצוב שמדבר בשבילך. הגיע הזמן ללבוש מה שמתאים לגבר.
+
+### מותג
+https://example.com/brand
+SWER הוא לא רק מותג — זו תפיסת עולם. אופנה גברית נועזת שבנויה על ביטחון, עוצמה וסטייל ללא פשרות. גלה את הסיפור שמאחורי הלוגו וה-DNA של המותג.
+
+### לוקבוק
+https://example.com/lookbook
+לוקבוק גברי שמוכיח שאופנה זה עניין של גישה. השראה ויז&#39;ואלית לגברים שיודעים מה הם רוצים — חולצות לגברים במחיר זול עם מראה שלא מתנצל. תראה, תתאהב, תזמין.
+
+### צור קשר
+https://example.com/contact
+יש שאלה? רוצה לדעת עוד על חנות הבגדים לגברים שמשנה את הגיים? צור קשר עם SWER עכשיו — אנחנו כאן, ישירים וזמינים בדיוק כמו הבגדים שלנו. אל תחכה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - SWER
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - SWER
+
+### Category
+https://example.com/category/:slug
+מוצרים - SWER
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
